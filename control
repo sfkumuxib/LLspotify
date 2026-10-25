@@ -1,9 +1,9 @@
-Package: com.eevee.spotify
+Package: com.ll.spotify
 Name: LLspotify
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Maintainer: jaydenjcpy
-Author: Eevee
+Description: LLspotify - твой личный премиум клиент.
+Maintainer: Твой Ник
+Author: Eevee (fork by Твой Ник)
 Section: Tweaks
 Depends: ${ORION}, firmware (>= 16.1)
